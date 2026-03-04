@@ -1,5 +1,5 @@
-const API_URL = "https://stock-management-1-vv3s.onrender.com/api/items";
-const LOGS_URL = "https://stock-management-1-vv3s.onrender.com/api/logs";
+const API_URL = "https://stock-inventory-management-qxc2.onrender.com/api/items";
+const LOGS_URL = "https://stock-inventory-management-qxc2.onrender.com/api/logs";
 
 let allItems = [];
 let allLogs = [];
